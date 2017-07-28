@@ -1,0 +1,23 @@
+{
+    "name": "Sass Compiler",
+    "description": "Dynamically recompile sass in the browser. Proof of concept.",
+    "version": "1.0.0-alpha",
+    "requiredTheme": false,
+    "mobileFriendly": true,
+    "settingsUrl": "/settings/compilation",
+    "settingsPermission": "Garden.Settings.Manage",
+    "icon": "signatures.png",
+    "key": "sasscompiler",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "Adam Charron",
+            "email": "adam@charrondev.com",
+            "homepage": "http://www.vanillaforums.com"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.4.0"
+    },
+    "buildProcessVersion": "1.0"
+}

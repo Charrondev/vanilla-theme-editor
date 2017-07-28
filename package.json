@@ -1,0 +1,15 @@
+{
+    "name": "vanilla-sass-compiler",
+    "version": "1.0.0",
+    "description": "A plugin for vanilla forums to dynamically recompile sass in the browser. Proof of concept.",
+    "main": "index.js",
+    "repository": "http://gFithub.com/vanilla/internal",
+    "author": "adam@charrondev.com",
+    "license": "Proprietary",
+    "entries": {
+        "bundle": "src/js/index.js"
+    },
+    "dependencies": {
+        "sass.js": "^0.10.5"
+    }
+}
