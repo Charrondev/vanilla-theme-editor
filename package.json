@@ -5,7 +5,7 @@
     "main": "index.js",
     "repository": "http://gFithub.com/vanilla/internal",
     "author": "adam@charrondev.com",
-    "license": "Proprietary",
+    "license": "MIT",
     "entries": {
         "bundle": "src/js/index.js"
     },
